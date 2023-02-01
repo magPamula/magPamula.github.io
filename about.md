@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+I am looking for a full-time role. I have been working as PMO at BonaSoft
+for over 1 year. I have been active in student community for 3 years.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+You can check out my LinkedIn profile:
+[<img src="/photos/LI-In-Bug.png" style="height:30px; width:30px;"/>](https://www.linkedin.com/in/mpamula)
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+You can check out my GitHub profile:
+[<img src="/photos/github-mark.png" style="height:30px; width:30px;"/>](https://github.com/magPamula)
