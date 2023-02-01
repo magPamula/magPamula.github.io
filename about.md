@@ -3,6 +3,8 @@ layout: page
 title: About
 permalink: /about/
 ---
+<div align="center"><img src="/photos/P8304812.JPG" style="height:486px; width:648px;"/></div>
+
 
 I am looking for a full-time role. I have been working as PMO at BonaSoft
 for over 1 year. I have been active in student community for 3 years.
